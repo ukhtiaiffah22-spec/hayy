@@ -12,3 +12,6 @@
 ![Image Alt](https://github.com/ukhtiaiffah22-spec/hayy/blob/main/images%20(4).jpg?raw=true)
 ![Image Alt](https://github.com/ukhtiaiffah22-spec/hayy/blob/main/images%20(5).jpg?raw=true)
 ![Image Alt](https://github.com/ukhtiaiffah22-spec/hayy/blob/main/images__6_-removebg-preview.png?raw=true)
+![Code Alt](https://raw.githubusercontent.com/ukhtiaiffah22-spec/hayy/refs/heads/main/index.html)
+(![Code Alt](https://raw.githubusercontent.com/ukhtiaiffah22-spec/hayy/refs/heads/main/script.js)
+![Code Alt](https://raw.githubusercontent.com/ukhtiaiffah22-spec/hayy/refs/heads/main/style.css)
